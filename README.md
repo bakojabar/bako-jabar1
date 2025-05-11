@@ -1,8 +1,6 @@
 ### Group members
-- Ahura Faraidoon
-- Dyari Bahadin
 - Bako Jabar
-- Rebwar Omer
+
 
 
 # NYC Airbnb Data Analysis
